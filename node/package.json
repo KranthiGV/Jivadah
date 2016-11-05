@@ -1,0 +1,15 @@
+{
+  "name": "jeevadha",
+  "version": "1.0.0",
+  "description": "A Chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.2.0"
+  }
+}
